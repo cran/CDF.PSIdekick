@@ -1,4 +1,4 @@
-c4cb0bc7969b59fe84bbc3df4360b9c1 *DESCRIPTION
+409e813bdb1e3d48cedc930f9c66ca3f *DESCRIPTION
 1e5aaba2e9c5eefb2a49baa33128c956 *NAMESPACE
 a7154899ff74b59e9f48d5633ebabb86 *R/CDFtestingSuite.R
 4a9a8b263cc290c171a09475e111bf5d *R/FunctionFramework.R
@@ -49,5 +49,5 @@ de884c1febf78075bec16a2296e3a0a8 *man/horzdiffat25.Rd
 424afa9ae44f0516ce820edce92d3d20 *man/nodes.Rd
 3d9664403d59bd9fa7ed9790e199c7a0 *man/smoothVector2.Rd
 d6a627dd146816470e7d50434a6550f3 *src/RcppExports.cpp
-454ed9498f36dfdc0d677f313f3c1737 *src/cdf.cpp
-5f46f91817de0f0162d4821864674999 *src/smooth.cpp
+3f2014075cd25d5e144b36eff7ed7fc0 *src/cdf.cpp
+93e06f9747f20ab8c4454e448980af0e *src/smooth.cpp

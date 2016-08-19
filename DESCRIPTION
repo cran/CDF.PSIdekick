@@ -2,7 +2,7 @@ Package: CDF.PSIdekick
 Type: Package
 Title: Evaluate Differentially Private Algorithms for Publishing
         Cumulative Distribution Functions
-Version: 1.0
+Version: 1.1
 Date: 2016-08-05
 Author: Daniel Muise [aut,cre],
   Kobbi Nissim [aut], 
@@ -14,6 +14,6 @@ Imports: Rcpp (>= 0.12.6)
 LinkingTo: Rcpp
 RoxygenNote: 5.0.1.9000
 NeedsCompilation: yes
-Packaged: 2016-08-11 19:14:57 UTC; Dan
+Packaged: 2016-08-18 19:31:13 UTC; Dan
 Repository: CRAN
-Date/Publication: 2016-08-12 12:42:29
+Date/Publication: 2016-08-19 00:36:11
