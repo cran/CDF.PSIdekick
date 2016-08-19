@@ -18,10 +18,10 @@ TreeCDF <- function(eps, ds, Ks, methods, mins, maxs, grans, datas) {
 }
 
 #' @title Monotonicity enforcement
-#' @description When CDFs get out of line, we call the enforcer
-#' @param x A numeric vector to be enforced
-#' @export
-#' @return A monotonized vector
+#' @description When CDFs get out of line, we call the enforcer 
+#' @param x A numeric vector to be enforced 
+#' @export 
+#' @return A monotonized vector 
 Smooth <- function(x) {
     .Call('CDF_PSIdekick_Smooth', PACKAGE = 'CDF.PSIdekick', x)
 }
